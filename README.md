@@ -6,8 +6,8 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone //This repo
-cd //Into the floder
+git clone https://github.com/DheerajShrivastav/frontend-doc-collection.git
+cd frontend-doc-collection
 yarn
 ```
 
@@ -23,8 +23,8 @@ yarn hardhat deploy --network goerli
 
 ```
 cd ..
-git clone 
-cd 
+git clone https://github.com/DheerajShrivastav/graph-doc-collection.git
+cd graph-doc-collection
 yarn
 ```
 
